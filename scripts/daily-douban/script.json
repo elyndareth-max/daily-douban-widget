@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "elyndareth-max",
+    "email": "elyndareth-max@github.com"
+  },
+  "name": "Daily Douban",
+  "description": "豆瓣每日推荐电影小组件",
+  "color": "rgba(47, 112, 76, 1)",
+  "version": "1.0.0",
+  "runInApp": false,
+  "localizedNames": {
+    "zh": "每日豆瓣",
+    "en": "Daily Douban"
+  },
+  "icon": "movieclapper",
+  "intentInputTypes": [],
+  "contributors": [],
+  "remoteResource": null,
+  "localizedDescriptions": null,
+  "iconImage": null
+}
